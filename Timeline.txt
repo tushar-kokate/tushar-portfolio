@@ -1,0 +1,8 @@
+TUSHAR KOKATE — PORTFOLIO PROJECT TIMELINE
+
+Project Name: Personal Developer Portfolio
+Owner: Tushar Vilas Kokate
+GitHub: https://github.com/tushar-kokate/tushar-portfolio.git
+Project Type: Personal Portfolio Website
+Status: In Development
+Start Date: October 2026
