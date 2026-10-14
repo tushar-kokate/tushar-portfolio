@@ -6,3 +6,19 @@ GitHub: https://github.com/tushar-kokate/tushar-portfolio.git
 Project Type: Personal Portfolio Website
 Status: In Development
 Start Date: October 2026
+
+
+We'll create your portfolio in this order:
+
+Portfolio foundation — clean up the default Vite page.
+Navbar — Home, About, Skills, Projects, and Contact.
+Hero section — introduction, role, and buttons.
+About Me — education and career goals.
+Technical Skills — programming languages, frameworks, and tools.
+Projects — showcase your development work.
+Education & Experience — your academic and internship background.
+Contact section — email and social links.
+Responsive design — mobile, tablet, and desktop.
+GitHub & deployment — push your code and publish the portfolio online.
+
+We'll use React + TypeScript + Tailwind CSS to build it.
